@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552312094890",
+    "project_id": "journal-app-d5d56",
+    "storage_bucket": "journal-app-d5d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552312094890:android:450c8f935da1478b4d90d3",
+        "android_client_info": {
+          "package_name": "com.rahatPersonal.journalApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4-Uon3M91hfwUYXD4tL0jfmR9MGs31c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
